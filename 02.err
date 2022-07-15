@@ -1,0 +1,7 @@
+D<01>
+
+size before=0
+C<02-01>C<03-01>C<04-01>C<05-01>C<06-01>
+size after=5
+program ending
+X<06>X<05>X<04>X<03>X<02>X<01>
